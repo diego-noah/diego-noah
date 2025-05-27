@@ -53,13 +53,4 @@ I'm actively learning, building, and contributing with these core blockchain tec
 
 ---
 
-## 🤝 Connect with Me
-
-I love connecting with fellow builders, innovators, and enthusiasts in the Web3 space. Whether you're deep into DeFi or just getting started in the ecosystem—let’s collaborate and grow together!
-
-📫 **Reach out anytime!**  
-Let's build the decentralized future, together. 🌍
-
----
-
 _“Code is law. But together, we write the future.”_
