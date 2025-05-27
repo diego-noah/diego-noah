@@ -2,7 +2,7 @@
 
 **Building the decentralized future, one smart contract at a time.**
 
-I'm a passionate **Web3 developer** and blockchain enthusiast, committed to building secure, scalable, and innovative decentralized applications. Whether it's smart contracts, dApps, or pushing the boundaries of open-source contributions—I'm all in on shaping a transparent and decentralized digital world.
+I'm a Web3 developer with a deep passion for decentralized technology and open innovation. My mission is to engineer secure, scalable, and future-ready blockchain solutions—from crafting smart contracts to building intuitive dApps. I thrive at the intersection of code and community, where open-source collaboration fuels a more transparent and trustless digital future.
 
 ---
 
